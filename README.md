@@ -54,4 +54,4 @@ Video demo:
 https://youtu.be/0BE-HTmPjmw
 
 Authors:
-Filip Fryczek & team
+Filip Fryczek
