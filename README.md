@@ -25,7 +25,7 @@ How to run:
 3. Run app:
    mvn spring-boot:run
 4. Open browser at:
-   http://localhost:8080/LI.html
+   http://localhost:8080/SI.html
 5. Register, then login
 
 Project structure:  
