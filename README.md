@@ -28,23 +28,27 @@ How to run:
    http://localhost:8080/LI.html
 5. Register, then login
 
-Project structure:
+Project structure:  
 
-src/main/java/com/ffryczek/user_validator/
-    Controller/
-    DTO/
-    Entity/
-    Repository/
-    Service/
-    config/
-
-src/main/resources/static/
-    css/style.css
-    js/LIscript.js
-    js/LoginSuccess.js
-    LI.html
-    SI.html
-    LoginSuccess.html
+- src  
+  - main  
+    - java  
+      - com  
+        - ffryczek  
+          - user_validator  
+            - Controller  
+            - DTO  
+            - Entity  
+            - Repository  
+            - Service  
+            - config  
+    - resources  
+      - static  
+        - css  
+        - js  
+        - LI.html  
+        - SI.html  
+        - LoginSuccess.html 
 
 Video demo:
 https://youtu.be/0BE-HTmPjmw
