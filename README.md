@@ -30,28 +30,24 @@ How to run:
 
 Project structure:
 
-src
-├── main
-│   ├── java/com/ffryczek/user_validator
-│   │   ├── Controller
-│   │   ├── DTO
-│   │   ├── Entity
-│   │   ├── Repository
-│   │   ├── Service
-│   │   └── config
-│   └── resources
-│       ├── static
-│       │   ├── css/style.css
-│       │   ├── js/LIscript.js
-│       │   ├── js/LoginSuccess.js
-│       │   ├── LI.html
-│       │   ├── SI.html
-│       │   └── LoginSuccess.html
-│       └── application.properties
-└── test
+src/main/java/com/ffryczek/user_validator/
+    Controller/
+    DTO/
+    Entity/
+    Repository/
+    Service/
+    config/
+
+src/main/resources/static/
+    css/style.css
+    js/LIscript.js
+    js/LoginSuccess.js
+    LI.html
+    SI.html
+    LoginSuccess.html
 
 Video demo:
 https://youtu.be/0BE-HTmPjmw
 
-Authors:
+Author:
 Filip Fryczek
